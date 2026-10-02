@@ -49,6 +49,13 @@ interests:
 
 <sub>Security Operations · SIEM Monitoring · Incident Response · Threat Detection</sub>
 
+<br/>
+
+<img src="assets/ecc-csa-certificate.png" width="600" alt="EC-Council Certified SOC Analyst certificate — Noel Biju John" />
+
+<br/>
+<sub>Certification No. ECC7689104235 · Issued 06 April 2026</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />

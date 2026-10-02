@@ -21,21 +21,7 @@
 
 ## 🧠 About Me
 
-```yaml
-name: Noel Biju John
-role: SOC Analyst
-certification: EC-Council Certified SOC Analyst (CSA) — April 2026
-focus: Detection Engineering & Threat Hunting
-currently_working_on:
-  - Elastic SIEM detection rules (EQL, KQL, Threshold)
-  - HTB & CyberDefenders DFIR labs
-  - Building a hands-on cybersecurity portfolio
-interests:
-  - Blue Team / SOC Operations
-  - Log Forensics & PCAP Analysis
-  - Attack Simulation & Detection Validation
-  - Malware Traffic Analysis
-```
+<img src="./bio-terminal.svg" width="860" alt="About Me — terminal" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 

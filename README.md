@@ -1,30 +1,29 @@
 <div align="center">
 
-# NOEL BIJU JOHN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=240&section=header&text=NOEL%20BIJU%20JOHN&fontSize=58&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20Intern%20%7C%20Detection%20Engineer%20%7C%20Blue%20Teamer&descSize=17&descAlignY=62" />
 
-### 🛡️ SOC Analyst &nbsp;·&nbsp; Detection Engineer &nbsp;·&nbsp; Blue Teamer
-
-*Building real detection rules. Simulating real attacks. Validating real alerts.*
-
-<img src="https://img.shields.io/badge/SOC-0a0a0a?style=for-the-badge&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/DETECTION_ENGINEERING-0a0a0a?style=for-the-badge&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/BLUE_TEAM-0a0a0a?style=for-the-badge&logoColor=C9A227" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Building+real+detection+rules.;Simulating+real+attacks.;Validating+real+alerts." alt="typing" />
 
 <br/>
+
+<img src="https://img.shields.io/badge/SOC_ANALYST-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
+<img src="https://img.shields.io/badge/DETECTION_ENGINEERING-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
+<img src="https://img.shields.io/badge/BLUE_TEAM-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
+
+<br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Noel-BijuJohn?label=Follow&style=social)](https://github.com/Noel-BijuJohn)
 ![Profile Views](https://komarev.com/ghpvc/?username=Noel-BijuJohn&color=C9A227&style=flat)
 
-<p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
 ## 🧠 About Me
 
 ```yaml
 name: Noel Biju John
-role: SOC Analyst
-certification: EC-Council Certified SOC Analyst (CSA)
+role: SOC Analyst Intern
 focus: Detection Engineering & Threat Hunting
 currently_working_on:
   - Elastic SIEM detection rules (EQL, KQL, Threshold)
@@ -37,7 +36,7 @@ interests:
   - Malware Traffic Analysis
 ```
 
-<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
 ## 🛡️ What I Work On
 
@@ -49,14 +48,14 @@ interests:
 | 🔬 | **Forensics** — PCAP analysis, auth.log/wtmp investigation, malware traffic reconstruction |
 | 🕵️ | **Threat Hunting** — MITRE ATT&CK-mapped detection, IOC identification, alert triage |
 
-<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
-## 🧰 Arsenal
+## 🧰 Tools & Stack
 
 | Category | Tools |
 |---|---|
 | 🖥️ **SIEM** | Elastic Stack (Kibana, Fleet, Packetbeat, Elasticsearch) · Splunk · Wazuh |
-| 🌐 **Network Forensics** | Wireshark · CyberChef · tcpdump · Scapy · VirusTotal |
+| 🌐 **Network Forensics** | Wireshark · CyberChef · tcpdump · VirusTotal |
 | 🔴 **Pentesting** | Nmap · Metasploit · SET (Social Engineering Toolkit) · Burp Suite · Hydra · Nikto |
 | 💻 **Attack Simulation** | Kali Linux · Netcat · curl · nslookup · Gobuster |
 | 🧠 **Threat Intel** | VirusTotal · OSINT Framework · MITRE ATT&CK Navigator · Shodan |
@@ -64,9 +63,24 @@ interests:
 | 📐 **Frameworks** | MITRE ATT&CK · Elastic Common Schema (ECS) · Cyber Kill Chain · PTES |
 | 🛠️ **Other** | Firebase · Google Maps API · Android (Jetpack) · Git · Docker |
 
-<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
-## 📂 Featured Work
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Noel-BijuJohn&show_icons=true&title_color=C9A227&text_color=ffffff&icon_color=C9A227&border_color=C9A227&bg_color=0a0a0a" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-BijuJohn&layout=compact&title_color=C9A227&text_color=ffffff&border_color=C9A227&bg_color=0a0a0a" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Noel-BijuJohn&background=0a0a0a&border=C9A227&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakNum=ffffff&currStreakLabel=C9A227&sideNums=ffffff&sideLabels=C9A227&dates=ffffff" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+
+## 📂 Featured Projects
 
 ### 🎯 [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt)
 > CyberDefenders blue-team lab — hunted PsExec lateral movement across a 40,000-packet capture, fully documented with evidence screenshots.
@@ -83,7 +97,7 @@ interests:
 ### 🕵️ [Cache-Me-Outside-Writeup](https://github.com/Noel-BijuJohn/Cache-Me-Outside-Writeup)
 > TryHackMe OSINT room — tracked a retired hacker across the open internet from a single leaked screenshot.
 
-- 🔍 Pivoted from a username to Komoot, GitHub, and beyond to unmask `Jim Lee`
+- 🔍 Pivoted from a username to Komoot, GitHub, and beyond to unmask the target
 - 📧 Exposed a leaked email via GitHub commit `.patch` metadata
 - 📞 Recovered a phone number from an automated email reply
 - 🛰️ Traced geotagged outdoor activity to pinpoint the final location
@@ -139,13 +153,12 @@ interests:
 
 `Kotlin` `Jetpack` `Firebase` `Google Maps API` `Geofencing` `Android`
 
-<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
 ## 🏅 Labs & Certifications
 
 | Platform | Lab / Certification |
 |---|---|
-| 🎓 EC-Council | Certified SOC Analyst (CSA) |
 | 🟦 CyberDefenders | PsExec Hunt — SMB Lateral Movement Forensics |
 | 🟩 TryHackMe | Cache Me Outside — OSINT Investigation |
 | 🟦 CyberDefenders | HawkEye — Network Forensics & Malware Analysis |
@@ -154,8 +167,12 @@ interests:
 
 <div align="center">
 
-<p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p>
+<br/>
 
 *🔍 Always learning. Always breaking things. Always figuring out how to detect it.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer" />
 
 </div>

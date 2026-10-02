@@ -1,23 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Noel Biju John
+# NOEL BIJU JOHN
 
-### 🛡️ SOC Analyst Intern | Detection Engineer | Blue Teamer
+### 🛡️ SOC Analyst &nbsp;·&nbsp; Detection Engineer &nbsp;·&nbsp; Blue Teamer
 
 *Building real detection rules. Simulating real attacks. Validating real alerts.*
 
+<img src="https://img.shields.io/badge/SOC-0a0a0a?style=for-the-badge&logoColor=C9A227" />
+<img src="https://img.shields.io/badge/DETECTION_ENGINEERING-0a0a0a?style=for-the-badge&logoColor=C9A227" />
+<img src="https://img.shields.io/badge/BLUE_TEAM-0a0a0a?style=for-the-badge&logoColor=C9A227" />
+
+<br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/Noel-BijuJohn?label=Follow&style=social)](https://github.com/Noel-BijuJohn)
-![Profile Views](https://komarev.com/ghpvc/?username=Noel-BijuJohn&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Noel-BijuJohn&color=C9A227&style=flat)
+
+<p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p>
 
 </div>
-
----
 
 ## 🧠 About Me
 
 ```yaml
 name: Noel Biju John
-role: SOC Analyst Intern
+role: SOC Analyst
+certification: EC-Council Certified SOC Analyst (CSA)
 focus: Detection Engineering & Threat Hunting
 currently_working_on:
   - Elastic SIEM detection rules (EQL, KQL, Threshold)
@@ -30,7 +37,7 @@ interests:
   - Malware Traffic Analysis
 ```
 
----
+<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
 
 ## 🛡️ What I Work On
 
@@ -42,14 +49,14 @@ interests:
 | 🔬 | **Forensics** — PCAP analysis, auth.log/wtmp investigation, malware traffic reconstruction |
 | 🕵️ | **Threat Hunting** — MITRE ATT&CK-mapped detection, IOC identification, alert triage |
 
----
+<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
 
-## 🧰 Tools & Stack
+## 🧰 Arsenal
 
 | Category | Tools |
 |---|---|
 | 🖥️ **SIEM** | Elastic Stack (Kibana, Fleet, Packetbeat, Elasticsearch) · Splunk · Wazuh |
-| 🌐 **Network Forensics** | Wireshark · CyberChef · tcpdump · VirusTotal |
+| 🌐 **Network Forensics** | Wireshark · CyberChef · tcpdump · Scapy · VirusTotal |
 | 🔴 **Pentesting** | Nmap · Metasploit · SET (Social Engineering Toolkit) · Burp Suite · Hydra · Nikto |
 | 💻 **Attack Simulation** | Kali Linux · Netcat · curl · nslookup · Gobuster |
 | 🧠 **Threat Intel** | VirusTotal · OSINT Framework · MITRE ATT&CK Navigator · Shodan |
@@ -57,9 +64,33 @@ interests:
 | 📐 **Frameworks** | MITRE ATT&CK · Elastic Common Schema (ECS) · Cyber Kill Chain · PTES |
 | 🛠️ **Other** | Firebase · Google Maps API · Android (Jetpack) · Git · Docker |
 
+<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
+
+## 📂 Featured Work
+
+### 🎯 [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt)
+> CyberDefenders blue-team lab — hunted PsExec lateral movement across a 40,000-packet capture, fully documented with evidence screenshots.
+
+- 🕵️ Traced the attacker from `10.0.0.130` → `SALES-PC` → `MARKETING-PC` over SMB
+- 🔑 Identified the compromised `IEUser` credential reused across hosts
+- 🧬 Extracted `PSEXESVC.exe` from an SMB2 WRITE via its PDB build path
+- 🛡️ Mapped the `ADMIN$` / `IPC$` tradecraft to MITRE ATT&CK with SOC detection takeaways
+
+`Wireshark` `SMB Forensics` `NTLM` `Lateral Movement` `MITRE ATT&CK` `Scapy`
+
 ---
 
-## 📂 Featured Projects
+### 🕵️ [Cache-Me-Outside-Writeup](https://github.com/Noel-BijuJohn/Cache-Me-Outside-Writeup)
+> TryHackMe OSINT room — tracked a retired hacker across the open internet from a single leaked screenshot.
+
+- 🔍 Pivoted from a username to Komoot, GitHub, and beyond to unmask `Jim Lee`
+- 📧 Exposed a leaked email via GitHub commit `.patch` metadata
+- 📞 Recovered a phone number from an automated email reply
+- 🛰️ Traced geotagged outdoor activity to pinpoint the final location
+
+`OSINT` `TryHackMe` `Username Enumeration` `GitHub Recon` `Geolocation`
+
+---
 
 ### 🔬 [elastic-detection-engineering-lab](https://github.com/Noel-BijuJohn/elastic-detection-engineering-lab)
 > Built a full Elastic SIEM lab from scratch — 3 log sources, 5 detection rules, live attack simulation, all alerts validated.
@@ -108,19 +139,22 @@ interests:
 
 `Kotlin` `Jetpack` `Firebase` `Google Maps API` `Geofencing` `Android`
 
----
+<div align="center"><p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p></div>
 
 ## 🏅 Labs & Certifications
 
 | Platform | Lab / Certification |
 |---|---|
+| 🎓 EC-Council | Certified SOC Analyst (CSA) |
+| 🟦 CyberDefenders | PsExec Hunt — SMB Lateral Movement Forensics |
+| 🟩 TryHackMe | Cache Me Outside — OSINT Investigation |
 | 🟦 CyberDefenders | HawkEye — Network Forensics & Malware Analysis |
 | 🟥 HackTheBox | Brutus — Sherlock DFIR Challenge |
 | 🟧 Self-Built | Elastic SIEM Detection Engineering Lab |
 
----
-
 <div align="center">
+
+<p><sub>✦ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✦</sub></p>
 
 *🔍 Always learning. Always breaking things. Always figuring out how to detect it.*
 

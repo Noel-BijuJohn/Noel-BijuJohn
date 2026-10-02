@@ -1,6 +1,10 @@
-<img src="./bio-terminal.svg" width="860" alt="Noel Biju John — terminal bio" />
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=240&section=header&text=NOEL%20BIJU%20JOHN&fontSize=58&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Blue%20Teamer&descSize=17&descAlignY=62" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Building+real+detection+rules.;Simulating+real+attacks.;Validating+real+alerts." alt="typing" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/SOC_ANALYST-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
 <img src="https://img.shields.io/badge/DETECTION_ENGINEERING-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />

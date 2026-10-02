@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=240&section=header&text=NOEL%20BIJU%20JOHN&fontSize=58&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20Intern%20%7C%20Detection%20Engineer%20%7C%20Blue%20Teamer&descSize=17&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=240&section=header&text=NOEL%20BIJU%20JOHN&fontSize=58&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Blue%20Teamer&descSize=17&descAlignY=62" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Building+real+detection+rules.;Simulating+real+attacks.;Validating+real+alerts." alt="typing" />
 
@@ -23,7 +23,8 @@
 
 ```yaml
 name: Noel Biju John
-role: SOC Analyst Intern
+role: SOC Analyst
+certification: EC-Council Certified SOC Analyst (CSA) — April 2026
 focus: Detection Engineering & Threat Hunting
 currently_working_on:
   - Elastic SIEM detection rules (EQL, KQL, Threshold)
@@ -35,6 +36,20 @@ interests:
   - Attack Simulation & Detection Validation
   - Malware Traffic Analysis
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+
+<div align="center">
+
+## 🏆 Certified
+
+<img src="https://img.shields.io/badge/EC--COUNCIL-CERTIFIED_SOC_ANALYST-0a0a0a?style=for-the-badge&logo=shieldcheck&logoColor=C9A227" />
+
+**EC-Council Certified SOC Analyst (CSA)** — *April 2026*
+
+<sub>Security Operations · SIEM Monitoring · Incident Response · Threat Detection</sub>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
@@ -80,7 +95,7 @@ interests:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
-## 📂 Featured Projects
+## 🌟 Showcase
 
 ### 🎯 [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt)
 > CyberDefenders blue-team lab — hunted PsExec lateral movement across a 40,000-packet capture, fully documented with evidence screenshots.

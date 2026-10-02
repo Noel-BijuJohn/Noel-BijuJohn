@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" font-family="monospace">
+  <rect x="1" y="1" width="858" height="298" rx="10" fill="#0a0a0a" stroke="#C9A227" stroke-width="2"/>
+  <rect x="1" y="1" width="858" height="34" rx="10" fill="#141414"/>
+  <rect x="1" y="20" width="858" height="15" fill="#141414"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="430" y="23" text-anchor="middle" font-size="13" fill="#C9A227" letter-spacing="2">noel@soc: ~/bio</text>
+
+  <text x="24" y="64" font-size="15" fill="#C9A227" opacity="0">$<tspan fill="#ffffff"> whoami</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="90" font-size="15" fill="#28c840" opacity="0">➜ noel-biju-john
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="122" font-size="15" fill="#C9A227" opacity="0">$<tspan fill="#ffffff"> cat ./bio.txt</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="150" font-size="14" fill="#8b8b8b" opacity="0">  role<tspan fill="#C9A227">     : </tspan><tspan fill="#ffffff">SOC Analyst</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="176" font-size="14" fill="#8b8b8b" opacity="0">  cert<tspan fill="#C9A227">     : </tspan><tspan fill="#ffffff">EC-Council Certified SOC Analyst (CSA) — Apr 2026</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="202" font-size="14" fill="#8b8b8b" opacity="0">  focus<tspan fill="#C9A227">    : </tspan><tspan fill="#ffffff">Detection Engineering &amp; Threat Hunting</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="228" font-size="14" fill="#8b8b8b" opacity="0">  mission<tspan fill="#C9A227">  : </tspan><tspan fill="#ffffff">Building real detection rules. Simulating real attacks.</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="254" font-size="14" fill="#8b8b8b" opacity="0"><tspan fill="#ffffff" dx="70">Validating real alerts.</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="4.0s" dur="0.25s" fill="freeze"/>
+  </text>
+  <text x="24" y="282" font-size="15" fill="#C9A227" opacity="0">$<tspan fill="#ffffff"> </tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.25s" fill="freeze"/>
+  </text>
+  <rect x="44" y="268" width="10" height="17" fill="#C9A227" opacity="0">
+    <animate attributeName="opacity" values="0;0" begin="0s" dur="4.7s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" begin="4.7s" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

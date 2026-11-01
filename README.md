@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-<img src="./bio-terminal.svg" width="860" alt="About Me — terminal" />
+<img src="./fastfetch-bio.svg" width="860" alt="About Me - fastfetch with pixelated profile" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 

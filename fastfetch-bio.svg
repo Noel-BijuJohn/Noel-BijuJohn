@@ -1,5 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" font-family="monospace">
   <rect x="1" y="1" width="858" height="338" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
+  <g fill="#DB0A40" opacity="0.40">
+    <g transform="translate(120,290) rotate(-15) scale(0.55)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+    <g transform="translate(720,90) rotate(20) scale(0.5)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+    <g transform="translate(650,280) rotate(-25) scale(0.45)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+    <g transform="translate(180,80) rotate(12) scale(0.4)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+  </g>
   <rect x="1" y="1" width="858" height="34" rx="10" fill="#0B1D51"/>
   <rect x="1" y="20" width="858" height="15" fill="#0B1D51"/>
   <circle cx="22" cy="18" r="6" fill="#ff5f57"/>

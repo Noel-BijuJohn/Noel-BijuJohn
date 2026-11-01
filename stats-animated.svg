@@ -1,5 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="110" viewBox="0 0 860 110" font-family="monospace">
   <rect x="1" y="1" width="858" height="108" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
+  <g fill="#DB0A40" opacity="0.40">
+    <g transform="translate(120,55) rotate(-10) scale(0.35)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+    <g transform="translate(700,55) rotate(15) scale(0.3)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+    <g transform="translate(430,60) rotate(-20) scale(0.3)">
+      <ellipse cx="0" cy="0" rx="70" ry="30"/>
+      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+      <polygon points="68,-12 108,2 102,24 62,18"/>
+      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+      <rect x="-52" y="24" width="12" height="34"/>
+      <rect x="-18" y="24" width="12" height="34"/>
+      <rect x="18" y="24" width="12" height="34"/>
+      <rect x="48" y="24" width="12" height="34"/>
+      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    </g>
+  </g>
   <text x="24" y="32" font-size="14" letter-spacing="3" fill="#FFC906">ACTIVITY PULSE</text>
   <circle cx="820" cy="28" r="6" fill="#DB0A40">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>

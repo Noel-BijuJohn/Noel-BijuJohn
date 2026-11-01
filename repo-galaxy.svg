@@ -2,40 +2,62 @@
   <rect x="1" y="1" width="858" height="378" rx="10" fill="#0a0a0a" stroke="#C9A227" stroke-width="2"/>
   <text x="430" y="42" text-anchor="middle" font-size="16" letter-spacing="4" fill="#C9A227">REPO GALAXY</text>
   <text x="430" y="66" text-anchor="middle" font-size="13" fill="#ffffff">@Noel-BijuJohn</text>
-  <text x="430" y="88" text-anchor="middle" font-size="12" fill="#8b8b8b">5 stars &#183; 7 public repositories &#183; each star is a repository, sized by its stars</text>
+  <text x="430" y="88" text-anchor="middle" font-size="12" fill="#8b8b8b">5 stars &#183; 7 public repositories &#183; each star is a repository</text>
   <g>
-    <circle cx="130" cy="180" r="34" fill="#C9A227" opacity="0.15"/>
-    <circle cx="130" cy="180" r="22" fill="#C9A227"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 430 190" to="360 430 190" dur="80s" repeatCount="indefinite"/>
+    <circle cx="430" cy="190" r="6" fill="#C9A227"/>
+    <circle cx="480" cy="170" r="3" fill="#ffffff" opacity="0.8"/>
+    <circle cx="390" cy="150" r="2.5" fill="#C9A227" opacity="0.7"/>
+    <circle cx="520" cy="210" r="2.5" fill="#ffffff" opacity="0.6"/>
+    <circle cx="350" cy="220" r="3" fill="#C9A227" opacity="0.8"/>
+    <circle cx="470" cy="250" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="400" cy="110" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="550" cy="160" r="2" fill="#C9A227" opacity="0.6"/>
+    <circle cx="320" cy="180" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="500" cy="280" r="2.5" fill="#C9A227" opacity="0.7"/>
+    <circle cx="360" cy="270" r="2" fill="#ffffff" opacity="0.5"/>
+  </g>
+  <circle cx="430" cy="190" r="30" fill="#C9A227" opacity="0.15">
+    <animate attributeName="r" values="26;36;26" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="430" cy="190" r="10" fill="#C9A227"/>
+  <circle r="5" fill="#ffffff">
+    <animateMotion dur="14s" repeatCount="indefinite" path="M430,60 a130,130 0 1,1 -0.1,0"/>
+  </circle>
+  <g>
+    <circle cx="130" cy="180" r="22" fill="#C9A227">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
     <text x="130" y="187" text-anchor="middle" font-size="18" fill="#0a0a0a">&#9733;</text>
     <text x="130" y="240" text-anchor="middle" font-size="12" fill="#ffffff">PsExec-Hunt</text>
     <text x="130" y="258" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
-    <circle cx="300" cy="150" r="34" fill="#C9A227" opacity="0.15"/>
-    <circle cx="300" cy="150" r="22" fill="#C9A227"/>
+    <circle cx="300" cy="150" r="22" fill="#C9A227">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
     <text x="300" y="157" text-anchor="middle" font-size="18" fill="#0a0a0a">&#9733;</text>
     <text x="300" y="210" text-anchor="middle" font-size="12" fill="#ffffff">elastic-detection-</text>
     <text x="300" y="226" text-anchor="middle" font-size="12" fill="#ffffff">engineering-lab</text>
     <text x="300" y="244" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
-    <circle cx="470" cy="190" r="34" fill="#C9A227" opacity="0.15"/>
-    <circle cx="470" cy="190" r="22" fill="#C9A227"/>
-    <text x="470" y="197" text-anchor="middle" font-size="18" fill="#0a0a0a">&#9733;</text>
-    <text x="470" y="250" text-anchor="middle" font-size="12" fill="#ffffff">hawkeye-infostealer-</text>
-    <text x="470" y="266" text-anchor="middle" font-size="12" fill="#ffffff">analysis</text>
-    <text x="470" y="284" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
-    <circle cx="630" cy="150" r="34" fill="#C9A227" opacity="0.15"/>
-    <circle cx="630" cy="150" r="22" fill="#C9A227"/>
-    <text x="630" y="157" text-anchor="middle" font-size="18" fill="#0a0a0a">&#9733;</text>
-    <text x="630" y="210" text-anchor="middle" font-size="12" fill="#ffffff">htb-brutus-ssh-</text>
-    <text x="630" y="226" text-anchor="middle" font-size="12" fill="#ffffff">forensics</text>
-    <text x="630" y="244" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
-    <circle cx="760" cy="200" r="28" fill="#C9A227" opacity="0.15"/>
-    <circle cx="760" cy="200" r="17" fill="#C9A227"/>
-    <text x="760" y="206" text-anchor="middle" font-size="14" fill="#0a0a0a">&#9733;</text>
-    <text x="760" y="252" text-anchor="middle" font-size="12" fill="#ffffff">Cache-Me-</text>
-    <text x="760" y="268" text-anchor="middle" font-size="12" fill="#ffffff">Outside</text>
-    <text x="760" y="286" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
-    <circle cx="210" cy="310" r="4" fill="#8b8b8b"/>
-    <circle cx="430" cy="330" r="4" fill="#8b8b8b"/>
-    <circle cx="580" cy="310" r="4" fill="#8b8b8b"/>
+    <circle cx="620" cy="150" r="22" fill="#C9A227">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3.8s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="620" y="157" text-anchor="middle" font-size="18" fill="#0a0a0a">&#9733;</text>
+    <text x="620" y="210" text-anchor="middle" font-size="12" fill="#ffffff">htb-brutus-ssh-</text>
+    <text x="620" y="226" text-anchor="middle" font-size="12" fill="#ffffff">forensics</text>
+    <text x="620" y="244" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
+    <circle cx="750" cy="200" r="17" fill="#C9A227">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3.2s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="750" y="206" text-anchor="middle" font-size="14" fill="#0a0a0a">&#9733;</text>
+    <text x="750" y="252" text-anchor="middle" font-size="12" fill="#ffffff">Cache-Me-</text>
+    <text x="750" y="268" text-anchor="middle" font-size="12" fill="#ffffff">Outside</text>
+    <text x="750" y="286" text-anchor="middle" font-size="12" fill="#C9A227">&#9733; 1</text>
   </g>
-  <text x="430" y="356" text-anchor="middle" font-size="12" fill="#8b8b8b">Brightest stars: the five repositories above, one star each</text>
+    <circle cx="560" cy="285" r="22" fill="#C9A227">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="560" y="292" text-anchor="middle" font-size="18" fill="#0a0a0a">&#9733;</text>
+    <text x="560" y="325" text-anchor="middle" font-size="12" fill="#ffffff">hawkeye-infostealer-</text>
+    <text x="560" y="341" text-anchor="middle" font-size="12" fill="#ffffff">analysis &#9733; 1</text>
+  <text x="430" y="368" text-anchor="middle" font-size="12" fill="#8b8b8b">Brightest stars: the five repositories above, one star each</text>
 </svg>

@@ -94,13 +94,13 @@
 
 ### 🌌 Repo Galaxy
 
-| Repository | Stars |
-|---|---|
-| [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt) | 1 |
-| [elastic-detection-engineering-lab](https://github.com/Noel-BijuJohn/elastic-detection-engineering-lab) | 1 |
-| [hawkeye-infostealer-analysis](https://github.com/Noel-BijuJohn/hawkeye-infostealer-analysis) | 1 |
-| [htb-brutus-ssh-forensics](https://github.com/Noel-BijuJohn/htb-brutus-ssh-forensics) | 1 |
-| [Cache-Me-Outside-Writeup](https://github.com/Noel-BijuJohn/Cache-Me-Outside-Writeup) | 1 |
+<div align="center">
+
+<img src="./repo-galaxy.svg" width="860" alt="Repo Galaxy - repositories as stars" />
+
+<sub>Each star is a repository, sized by its stars. 5 stars across 7 public repositories.</sub>
+
+</div>
 
 
 ### 🎯 [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt)

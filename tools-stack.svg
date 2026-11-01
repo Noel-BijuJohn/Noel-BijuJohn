@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="382" viewBox="0 0 860 382" font-family="monospace">
+  <rect x="1" y="1" width="858" height="380" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
+  <text x="24" y="36" font-size="16" letter-spacing="3" fill="#FFC906">TOOLS &amp; STACK</text>
+  <line x1="24" y1="48" x2="836" y2="48" stroke="#DB0A40" stroke-width="1" opacity="0.6"/>
+  <text x="24" y="80" font-size="13" fill="#FFC906">SIEM</text>
+  <text x="210" y="80" font-size="13" fill="#ffffff">Elastic Stack (Kibana, Fleet, Packetbeat, Elasticsearch) ·</text>
+  <text x="210" y="98" font-size="13" fill="#ffffff">Splunk · Wazuh</text>
+  <text x="24" y="130" font-size="13" fill="#FFC906">Network Forensics</text>
+  <text x="210" y="130" font-size="13" fill="#ffffff">Wireshark · CyberChef · tcpdump · Scapy · VirusTotal</text>
+  <text x="24" y="162" font-size="13" fill="#FFC906">Pentesting</text>
+  <text x="210" y="162" font-size="13" fill="#ffffff">Nmap · Metasploit · SET · Burp Suite · Hydra · Nikto</text>
+  <text x="24" y="194" font-size="13" fill="#FFC906">Attack Simulation</text>
+  <text x="210" y="194" font-size="13" fill="#ffffff">Kali Linux · Netcat · curl · nslookup · Gobuster</text>
+  <text x="24" y="226" font-size="13" fill="#FFC906">Threat Intel</text>
+  <text x="210" y="226" font-size="13" fill="#ffffff">VirusTotal · OSINT Framework · MITRE ATT&amp;CK Navigator · Shodan</text>
+  <text x="24" y="258" font-size="13" fill="#FFC906">Languages</text>
+  <text x="210" y="258" font-size="13" fill="#ffffff">Python · Kotlin · KQL · EQL · Bash · PowerShell</text>
+  <text x="24" y="290" font-size="13" fill="#FFC906">Frameworks</text>
+  <text x="210" y="290" font-size="13" fill="#ffffff">MITRE ATT&amp;CK · Elastic Common Schema (ECS) · Cyber Kill Chain</text>
+  <text x="210" y="308" font-size="13" fill="#ffffff">· PTES</text>
+  <text x="24" y="340" font-size="13" fill="#FFC906">Other</text>
+  <text x="210" y="340" font-size="13" fill="#ffffff">Firebase · Google Maps API · Android (Jetpack) · Git · Docker</text>
+</svg>

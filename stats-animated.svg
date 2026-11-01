@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="110" viewBox="0 0 860 110" font-family="monospace">
+  <rect x="1" y="1" width="858" height="108" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
+  <text x="24" y="32" font-size="14" letter-spacing="3" fill="#FFC906">ACTIVITY PULSE</text>
+  <circle r="6" fill="#DB0A40">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="40" y="32" font-size="13" fill="#ffffff">Live stats below, updated by GitHub</text>
+  <line x1="24" y1="58" x2="836" y2="58" stroke="#DB0A40" stroke-width="2" opacity="0.4"/>
+  <circle r="6" fill="#FFC906">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M24,58 L836,58"/>
+  </circle>
+  <text x="24" y="90" font-size="13" fill="#ffffff">70 contributions in the last year &#183; 5 stars &#183; 7 public repositories &#183; 5 followers</text>
+</svg>

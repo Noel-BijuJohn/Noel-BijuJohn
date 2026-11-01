@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="332" viewBox="0 0 860 332" font-family="monospace">
+  <rect x="1" y="1" width="858" height="330" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
+  <text x="24" y="36" font-size="16" letter-spacing="3" fill="#FFC906">WHAT I WORK ON</text>
+  <line x1="24" y1="48" x2="836" y2="48" stroke="#DB0A40" stroke-width="1" opacity="0.6"/>
+  <text x="24" y="80" font-size="13" fill="#FFC906">Detection Engineering</text>
+  <text x="240" y="80" font-size="13" fill="#ffffff">custom EQL, KQL, and threshold rules in Elastic Security</text>
+  <text x="24" y="114" font-size="13" fill="#FFC906">Log Analysis</text>
+  <text x="240" y="114" font-size="13" fill="#ffffff">Windows Event Logs, network captures, Unix auth logs, custom</text>
+  <text x="240" y="132" font-size="13" fill="#ffffff">app pipelines</text>
+  <text x="24" y="166" font-size="13" fill="#FFC906">Attack Simulation</text>
+  <text x="240" y="166" font-size="13" fill="#ffffff">credential stuffing, DNS tunneling, PowerShell exploitation,</text>
+  <text x="240" y="184" font-size="13" fill="#ffffff">SSH brute force</text>
+  <text x="24" y="218" font-size="13" fill="#FFC906">Forensics</text>
+  <text x="240" y="218" font-size="13" fill="#ffffff">PCAP analysis, auth.log/wtmp investigation, malware traffic</text>
+  <text x="240" y="236" font-size="13" fill="#ffffff">reconstruction</text>
+  <text x="24" y="270" font-size="13" fill="#FFC906">Threat Hunting</text>
+  <text x="240" y="270" font-size="13" fill="#ffffff">MITRE ATT&amp;CK-mapped detection, IOC identification, alert</text>
+  <text x="240" y="288" font-size="13" fill="#ffffff">triage</text>
+</svg>

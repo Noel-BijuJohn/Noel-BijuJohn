@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" font-family="monospace">
-  <rect x="1" y="1" width="858" height="338" rx="10" fill="#0a0a0a" stroke="#C9A227" stroke-width="2"/>
-  <rect x="1" y="1" width="858" height="34" rx="10" fill="#141414"/>
-  <rect x="1" y="20" width="858" height="15" fill="#141414"/>
+  <rect x="1" y="1" width="858" height="338" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
+  <rect x="1" y="1" width="858" height="34" rx="10" fill="#0B1D51"/>
+  <rect x="1" y="20" width="858" height="15" fill="#0B1D51"/>
   <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
   <circle cx="42" cy="18" r="6" fill="#febc2e"/>
   <circle cx="62" cy="18" r="6" fill="#28c840"/>
-  <text x="430" y="23" text-anchor="middle" font-size="13" fill="#C9A227" letter-spacing="2">noel@soc: ~/fastfetch</text>
+  <text x="430" y="23" text-anchor="middle" font-size="13" fill="#FFC906" letter-spacing="2">noel@soc: ~/fastfetch</text>
   <g>
     <rect x="24" y="52" width="8" height="8" fill="#d7d8d4"/>
     <rect x="32" y="52" width="8" height="8" fill="#6b706f"/>
@@ -968,15 +968,18 @@
     <rect x="248" y="300" width="8" height="8" fill="#beb599"/>
     <rect x="256" y="300" width="8" height="8" fill="#c3bb9f"/>
   </g>
-  <rect x="24" y="52" width="240" height="256" fill="none" stroke="#C9A227" stroke-width="1" opacity="0.5"/>
-  <text x="300" y="80" font-size="18" fill="#C9A227">noel@github</text>
+  <rect x="24" y="52" width="240" height="256" fill="none" stroke="#FFC906" stroke-width="1" opacity="0.5"/>
+  <text x="300" y="80" font-size="18" fill="#FFC906">noel@github</text>
   <text x="300" y="102" font-size="14" fill="#8b8b8b">────────────────────────────</text>
-  <text x="300" y="130" font-size="14" fill="#C9A227">Name<tspan fill="#ffffff">    : Noel Biju John</tspan></text>
-  <text x="300" y="156" font-size="14" fill="#C9A227">Role<tspan fill="#ffffff">    : SOC Analyst | Detection Engineer</tspan></text>
-  <text x="300" y="182" font-size="14" fill="#C9A227">Cert<tspan fill="#ffffff">    : EC-Council CSA, Apr 2026</tspan></text>
-  <text x="300" y="208" font-size="14" fill="#C9A227">Focus<tspan fill="#ffffff">   : Detection Engineering &amp; Threat Hunting</tspan></text>
-  <text x="300" y="234" font-size="14" fill="#C9A227">Mission<tspan fill="#ffffff"> : Building real detection rules.</tspan></text>
+  <text x="300" y="130" font-size="14" fill="#FFC906">Name<tspan fill="#ffffff">    : Noel Biju John</tspan></text>
+  <text x="300" y="156" font-size="14" fill="#FFC906">Role<tspan fill="#ffffff">    : SOC Analyst | Detection Engineer</tspan></text>
+  <text x="300" y="182" font-size="14" fill="#FFC906">Cert<tspan fill="#ffffff">    : EC-Council CSA, Apr 2026</tspan></text>
+  <text x="300" y="208" font-size="14" fill="#FFC906">Focus<tspan fill="#ffffff">   : Detection Engineering &amp; Threat Hunting</tspan></text>
+  <text x="300" y="234" font-size="14" fill="#FFC906">Mission<tspan fill="#ffffff"> : Building real detection rules.</tspan></text>
   <text x="300" y="256" font-size="14" fill="#ffffff">          Simulating real attacks. Validating real alerts.</text>
-  <text x="300" y="282" font-size="14" fill="#C9A227">Repos<tspan fill="#ffffff">   : 7 public &#183; Stars: 5 &#183; Followers: 5</tspan></text>
-  <text x="300" y="308" font-size="14" fill="#C9A227">Contact<tspan fill="#ffffff"> : github.com/Noel-BijuJohn</tspan></text>
+  <text x="300" y="282" font-size="14" fill="#FFC906">Repos<tspan fill="#ffffff">   : 7 public &#183; Stars: 5 &#183; Followers: 5</tspan></text>
+  <text x="300" y="308" font-size="14" fill="#FFC906">Contact<tspan fill="#ffffff"> : github.com/Noel-BijuJohn</tspan></text>
+  <rect x="300" y="318" width="10" height="16" fill="#FFC906">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>

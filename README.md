@@ -1,35 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=240&section=header&text=NOEL%20BIJU%20JOHN&fontSize=58&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Blue%20Teamer&descSize=17&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=001E5A&height=240&section=header&text=NOEL%20BIJU%20JOHN&fontSize=58&fontColor=FFC906&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Blue%20Teamer&descSize=17&descAlignY=62" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Building+real+detection+rules.;Simulating+real+attacks.;Validating+real+alerts." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFC906&center=true&vCenter=true&width=650&lines=Building+real+detection+rules.;Simulating+real+attacks.;Validating+real+alerts." alt="typing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SOC_ANALYST-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
-<img src="https://img.shields.io/badge/DETECTION_ENGINEERING-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
-<img src="https://img.shields.io/badge/BLUE_TEAM-0a0a0a?style=for-the-badge&logoColor=C9A227&labelColor=0a0a0a&color=C9A227" />
+<img src="https://img.shields.io/badge/SOC_ANALYST-001E5A?style=for-the-badge&logoColor=FFC906&labelColor=001E5A&color=DB0A40" />
+<img src="https://img.shields.io/badge/DETECTION_ENGINEERING-001E5A?style=for-the-badge&logoColor=FFC906&labelColor=001E5A&color=DB0A40" />
+<img src="https://img.shields.io/badge/BLUE_TEAM-001E5A?style=for-the-badge&logoColor=FFC906&labelColor=001E5A&color=DB0A40" />
 
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Noel-BijuJohn?label=Follow&style=social)](https://github.com/Noel-BijuJohn)
-![Profile Views](https://komarev.com/ghpvc/?username=Noel-BijuJohn&color=C9A227&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Noel-BijuJohn&color=DB0A40&style=flat)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 ## 🧠 About Me
 
 <img src="./fastfetch-bio.svg" width="860" alt="About Me - fastfetch with pixelated profile" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 <div align="center">
 
 ## 🏆 Certified
 
-<img src="https://img.shields.io/badge/EC--COUNCIL-CERTIFIED_SOC_ANALYST-0a0a0a?style=for-the-badge&logo=shield&logoColor=C9A227" />
+<img src="https://img.shields.io/badge/EC--COUNCIL-CERTIFIED_SOC_ANALYST-001E5A?style=for-the-badge&logo=shield&logoColor=FFC906" />
 
 **EC-Council Certified SOC Analyst (CSA)** — *April 2026*
 
@@ -44,51 +44,38 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 ## 🛡️ What I Work On
 
-| | Focus Area |
-|---|---|
-| 🔍 | **Detection Engineering** — custom EQL, KQL, and threshold rules in Elastic Security |
-| 📋 | **Log Analysis** — Windows Event Logs, network captures, Unix auth logs, custom app pipelines |
-| ⚔️ | **Attack Simulation** — credential stuffing, DNS tunneling, PowerShell exploitation, SSH brute force |
-| 🔬 | **Forensics** — PCAP analysis, auth.log/wtmp investigation, malware traffic reconstruction |
-| 🕵️ | **Threat Hunting** — MITRE ATT&CK-mapped detection, IOC identification, alert triage |
+<img src="./work-on.svg" width="860" alt="What I Work On" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 ## 🧰 Tools & Stack
 
-| Category | Tools |
-|---|---|
-| 🖥️ **SIEM** | Elastic Stack (Kibana, Fleet, Packetbeat, Elasticsearch) · Splunk · Wazuh |
-| 🌐 **Network Forensics** | Wireshark · CyberChef · tcpdump · Scapy · VirusTotal |
-| 🔴 **Pentesting** | Nmap · Metasploit · SET (Social Engineering Toolkit) · Burp Suite · Hydra · Nikto |
-| 💻 **Attack Simulation** | Kali Linux · Netcat · curl · nslookup · Gobuster |
-| 🧠 **Threat Intel** | VirusTotal · OSINT Framework · MITRE ATT&CK Navigator · Shodan |
-| 💬 **Languages** | Python · Kotlin · KQL · EQL · Bash · PowerShell |
-| 📐 **Frameworks** | MITRE ATT&CK · Elastic Common Schema (ECS) · Cyber Kill Chain · PTES |
-| 🛠️ **Other** | Firebase · Google Maps API · Android (Jetpack) · Git · Docker |
+<img src="./tools-stack.svg" width="860" alt="Tools and Stack" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Noel-BijuJohn&show_icons=true&title_color=C9A227&text_color=ffffff&icon_color=C9A227&border_color=C9A227&bg_color=0a0a0a" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-BijuJohn&layout=compact&title_color=C9A227&text_color=ffffff&border_color=C9A227&bg_color=0a0a0a" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Noel-BijuJohn&show_icons=true&title_color=FFC906&text_color=ffffff&icon_color=DB0A40&border_color=DB0A40&bg_color=001E5A" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-BijuJohn&layout=compact&title_color=FFC906&text_color=ffffff&border_color=DB0A40&bg_color=001E5A" height="170" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Noel-BijuJohn&background=0a0a0a&border=C9A227&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakNum=ffffff&currStreakLabel=C9A227&sideNums=ffffff&sideLabels=C9A227&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Noel-BijuJohn&background=001E5A&border=DB0A40&stroke=DB0A40&ring=FFC906&fire=DB0A40&currStreakNum=ffffff&currStreakLabel=FFC906&sideNums=ffffff&sideLabels=FFC906&dates=ffffff" />
 
 <sub>Activity: 70 contributions in the last year · 5 stars · 7 public repositories · 5 followers</sub>
 
+<img src="./stats-animated.svg" width="860" alt="Activity pulse - animated" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 ## 🌟 Showcase
 
@@ -96,7 +83,7 @@
 
 <div align="center">
 
-<img src="./repo-galaxy.svg" width="860" alt="Repo Galaxy - repositories as stars" />
+<img src="./repo-galaxy.svg" width="860" alt="Repo Galaxy - animated galaxy of repositories" />
 
 <sub>Each star is a repository, sized by its stars. 5 stars across 7 public repositories.</sub>
 
@@ -174,7 +161,7 @@
 
 `Kotlin` `Jetpack` `Firebase` `Google Maps API` `Geofencing` `Android`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB0A40&height=3" />
 
 ## 🏅 Labs & Certifications
 
@@ -195,6 +182,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=001E5A&height=120&section=footer" />
 
 </div>

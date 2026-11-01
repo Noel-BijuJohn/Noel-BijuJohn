@@ -23,8 +23,6 @@
 
 <img src="./bio-terminal.svg" width="860" alt="About Me — terminal" />
 
-<img src="./bio-green-screen.svg" width="860" alt="Bio - terminal system info" />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
 
 <div align="center">
@@ -86,9 +84,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Noel-BijuJohn&background=0a0a0a&border=C9A227&stroke=C9A227&ring=C9A227&fire=C9A227&currStreakNum=ffffff&currStreakLabel=C9A227&sideNums=ffffff&sideLabels=C9A227&dates=ffffff" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noel-BijuJohn&bg_color=0a0a0a&color=C9A227&line=C9A227&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<sub>Activity: 70 contributions in the last year · 5 stars · 7 public repositories · 5 followers</sub>
 
 </div>
 
@@ -96,13 +92,16 @@
 
 ## 🌟 Showcase
 
-<div align="center">
+### 🌌 Repo Galaxy
 
-<img src="./repo-galaxy.svg" width="860" alt="Repo Galaxy - repositories as stars" />
+| Repository | Stars |
+|---|---|
+| [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt) | 1 |
+| [elastic-detection-engineering-lab](https://github.com/Noel-BijuJohn/elastic-detection-engineering-lab) | 1 |
+| [hawkeye-infostealer-analysis](https://github.com/Noel-BijuJohn/hawkeye-infostealer-analysis) | 1 |
+| [htb-brutus-ssh-forensics](https://github.com/Noel-BijuJohn/htb-brutus-ssh-forensics) | 1 |
+| [Cache-Me-Outside-Writeup](https://github.com/Noel-BijuJohn/Cache-Me-Outside-Writeup) | 1 |
 
-<sub>Each star is a repository, sized by its stars. 5 stars across 7 public repositories.</sub>
-
-</div>
 
 ### 🎯 [PsExec-Hunt](https://github.com/Noel-BijuJohn/PsExec-Hunt)
 > CyberDefenders blue-team lab — hunted PsExec lateral movement across a 40,000-packet capture, fully documented with evidence screenshots.

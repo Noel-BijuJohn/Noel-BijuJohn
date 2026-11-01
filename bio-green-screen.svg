@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" font-family="monospace">
+  <rect x="1" y="1" width="858" height="338" rx="10" fill="#0a0a0a" stroke="#C9A227" stroke-width="2"/>
+  <rect x="1" y="1" width="858" height="34" rx="10" fill="#141414"/>
+  <rect x="1" y="20" width="858" height="15" fill="#141414"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="430" y="23" text-anchor="middle" font-size="13" fill="#C9A227" letter-spacing="2">noel-bijujohn@github: ~/bio</text>
+  <text x="24" y="68" font-size="20" fill="#C9A227">Hi! I'm noel_</text>
+  <text x="24" y="96" font-size="14" fill="#ffffff">Cybersecurity enthusiast | SOC &amp; Detection Engineering</text>
+  <text x="24" y="118" font-size="14" fill="#8b8b8b">Building | Learning | Shipping</text>
+  <line x1="24" y1="136" x2="836" y2="136" stroke="#C9A227" stroke-width="1" opacity="0.5"/>
+  <text x="24" y="164" font-size="14" fill="#C9A227">SYSTEM.INFO</text>
+  <text x="24" y="192" font-size="14" fill="#8b8b8b">Subject      : <tspan fill="#ffffff">Noel Biju John</tspan></text>
+  <text x="24" y="216" font-size="14" fill="#8b8b8b">Handle       : <tspan fill="#ffffff">@Noel-BijuJohn</tspan></text>
+  <text x="24" y="240" font-size="14" fill="#8b8b8b">Role         : <tspan fill="#ffffff">SOC Analyst | Detection Engineer</tspan></text>
+  <text x="24" y="264" font-size="14" fill="#8b8b8b">Cert         : <tspan fill="#ffffff">EC-Council Certified SOC Analyst (CSA), Apr 2026</tspan></text>
+  <text x="24" y="288" font-size="14" fill="#8b8b8b">Repositories : <tspan fill="#ffffff">7 public</tspan>   <tspan fill="#8b8b8b">Stars : </tspan><tspan fill="#ffffff">5</tspan>   <tspan fill="#8b8b8b">Followers : </tspan><tspan fill="#ffffff">5</tspan></text>
+  <text x="24" y="312" font-size="14" fill="#8b8b8b">Contact      : <tspan fill="#ffffff">github.com/Noel-BijuJohn</tspan></text>
+  <text x="24" y="332" font-size="13" fill="#C9A227">$ cat ~/about.txt</text>
+</svg>

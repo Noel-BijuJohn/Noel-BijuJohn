@@ -174,6 +174,34 @@
 | 🟥 HackTheBox | Brutus — Sherlock DFIR Challenge |
 | 🟧 Self-Built | Elastic SIEM Detection Engineering Lab |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+
+## 🌌 Repo Galaxy
+
+<div align="center">
+
+<img src="./repo-galaxy.svg" width="860" alt="Repo Galaxy - repositories as stars" />
+
+<sub>Each star is a repository, sized by its stars. 5 stars across 7 public repositories.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noel-BijuJohn&bg_color=0a0a0a&color=C9A227&line=C9A227&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=3" />
+
+## 🖥️ Bio
+
+<img src="./bio-green-screen.svg" width="860" alt="Bio - terminal system info" />
+
 <div align="center">
 
 <br/>

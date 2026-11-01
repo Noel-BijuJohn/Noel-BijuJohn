@@ -79,8 +79,6 @@
 
 ## 🌟 Showcase
 
-### 🌌 Repo Galaxy
-
 <div align="center">
 
 <img src="./repo-galaxy.svg" width="860" alt="Repo Galaxy - animated galaxy of repositories" />

@@ -1,84 +1,108 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380" font-family="monospace">
   <rect x="1" y="1" width="858" height="378" rx="10" fill="#001E5A" stroke="#DB0A40" stroke-width="2"/>
-  <g fill="#DB0A40">
-    <g transform="translate(110,110) rotate(-18) scale(0.7)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+  <g>
+    <g transform="translate(150,120) scale(0.7)" opacity="0.40">
+      <circle cx="0" cy="0" r="45" fill="#FFC906"/>
+      <g transform="translate(-95,10) scale(0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
+      <g transform="translate(95,10) scale(-0.55,0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
     </g>
-    <g transform="translate(710,95) rotate(22) scale(0.65)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    <g transform="translate(700,110) scale(0.6)" opacity="0.40">
+      <circle cx="0" cy="0" r="45" fill="#FFC906"/>
+      <g transform="translate(-95,10) scale(0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
+      <g transform="translate(95,10) scale(-0.55,0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
     </g>
-    <g transform="translate(200,325) rotate(8) scale(0.85)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    <g transform="translate(200,320) scale(0.8)" opacity="0.40">
+      <circle cx="0" cy="0" r="45" fill="#FFC906"/>
+      <g transform="translate(-95,10) scale(0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
+      <g transform="translate(95,10) scale(-0.55,0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
     </g>
-    <g transform="translate(640,330) rotate(-24) scale(0.75)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
-    </g>
-    <g transform="translate(380,88) rotate(15) scale(0.5)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
-    </g>
-    <g transform="translate(90,230) rotate(-30) scale(0.6)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
-    </g>
-    <g transform="translate(770,230) rotate(30) scale(0.6)" opacity="0.40">
-      <ellipse cx="0" cy="0" rx="70" ry="30"/>
-      <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
-      <polygon points="68,-12 108,2 102,24 62,18"/>
-      <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
-      <rect x="-52" y="24" width="12" height="34"/>
-      <rect x="-18" y="24" width="12" height="34"/>
-      <rect x="18" y="24" width="12" height="34"/>
-      <rect x="48" y="24" width="12" height="34"/>
-      <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+    <g transform="translate(650,320) scale(0.7)" opacity="0.40">
+      <circle cx="0" cy="0" r="45" fill="#FFC906"/>
+      <g transform="translate(-95,10) scale(0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
+      <g transform="translate(95,10) scale(-0.55,0.55)" fill="#DB0A40">
+        <ellipse cx="0" cy="0" rx="70" ry="30"/>
+        <ellipse cx="-32" cy="-26" rx="28" ry="16"/>
+        <polygon points="68,-12 108,2 102,24 62,18"/>
+        <path d="M96,-8 Q116,-28 132,-16" fill="none" stroke="#DB0A40" stroke-width="5"/>
+        <rect x="-52" y="24" width="12" height="34"/>
+        <rect x="-18" y="24" width="12" height="34"/>
+        <rect x="18" y="24" width="12" height="34"/>
+        <rect x="48" y="24" width="12" height="34"/>
+        <path d="M-68,0 Q-88,18 -82,38" fill="none" stroke="#DB0A40" stroke-width="4"/>
+      </g>
     </g>
   </g>
+
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 430 190" to="360 430 190" dur="80s" repeatCount="indefinite"/>
     <circle cx="430" cy="190" r="6" fill="#FFC906"/>
